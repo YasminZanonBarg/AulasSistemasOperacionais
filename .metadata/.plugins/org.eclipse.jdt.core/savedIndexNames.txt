@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\114954\Documents\07- Projetos\AulasUnifebe\AulasSistemasOperacionais\.metadata\.plugins\org.eclipse.jdt.core
+539894375.index
+3521264239.index
+2098819257.index
+1865797976.index
+2907979377.index
